@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6e78abc8-1362-4108-a2e5-bd440d67fa54)
+
+ 
  **🔹 Zomato Data Analysis Project**  
 
  **📌 Introduction**  
